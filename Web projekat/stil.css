@@ -1,0 +1,104 @@
+.napraviForma {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.napraviForma > * {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-align-last: center;
+  margin: 0.2%;
+}
+
+.kontejner {
+  display: flex;
+  flex-grow: 1;
+  border: 1px solid black;
+}
+
+.kontejner > *:not(button) {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.kontForma {
+  flex-grow: 1;
+}
+.kontVojska {
+  flex-grow: 5;
+  padding: 1%;
+}
+
+.kontAvioni {
+  border: 1px solid red;
+  background-color: red;
+}
+.kontTenkovi {
+  border: 1px solid blue;
+  background-color: blue;
+}
+.kontPesadija {
+  border: 1px solid green;
+  background-color: green;
+}
+
+.puk {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 1%;
+}
+
+.bataljoniDiv {
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.bataljon {
+  display: flex;
+  background-color: gray;
+  border: 1px solid black;
+  padding: 1%;
+  margin: 1%;
+}
+
+@media only screen and (max-width: 500px) {
+  .kontVojska,
+  .kontejner {
+    flex-direction: column;
+  }
+}
+body {
+  text-align: center;
+}
+.kontAvioni,
+.kontTenkovi,
+.kontPesadija {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+  padding: 2%;
+}
+
+[className^="kont"] > * {
+  margin: 1%;
+}
+
+.dugmad {
+  padding: 1%;
+}
+
+.dugmad > * {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  flex-grow: 1;
+  padding: 2%;
+  margin: 1%;
+}

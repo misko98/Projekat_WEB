@@ -1,0 +1,186 @@
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.csprojAssemblyReference.cache
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.AssemblyInfoInputs.cache
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.AssemblyInfo.cs
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\appsettings.json
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.exe
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.deps.json
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.runtimeconfig.json
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.runtimeconfig.dev.json
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\ref\webapi.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\webapi.pdb
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SICEF\Desktop\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\scopedcss\bundle\webapi.styles.css
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.csproj.CopyComplete
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.dll
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\ref\webapi.dll
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.pdb
+C:\Users\SICEF\Desktop\webapi\obj\Debug\net5.0\webapi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.exe
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.deps.json
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.runtimeconfig.json
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\ref\webapi.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\scopedcss\bundle\webapi.styles.css
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\ref\webapi.dll
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.pdb
+C:\Users\Admin\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.exe
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.deps.json
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\ref\webapi.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\webapi.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\staticwebassets\webapi.StaticWebAssets.xml
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\scopedcss\bundle\webapi.styles.css
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\ref\webapi.dll
+C:\Users\Lenovo\Desktop\Projekat web\webapi\obj\Debug\net5.0\webapi.genruntimeconfig.cache
